@@ -254,12 +254,12 @@ var event_data = {
         "cancelled": false
     },
         {
-        "occasion": " Repeated Test Event ",
+        "occasion": " Test Holiday of HCS 3 ",
         "invited_count": 120,
-        "year": 2020,
-        "month": 5,
-        "day": 10,
-        "cancelled": true
+        "year": 2024,
+        "month": 1,
+        "day": 30,
+        "cancelled": false
     },
     {
         "occasion": " Repeated Test Event ",
