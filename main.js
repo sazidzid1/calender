@@ -238,11 +238,11 @@ var event_data = {
         "cancelled": false
     },
         {
-        "occasion": " Repeated Test Event ",
-        "invited_count": 120,
-        "year": 2020,
-        "month": 5,
-        "day": 10,
+        "occasion": " Test Holiday of High Court ",
+        "invited_count": 0,
+        "year": 2024,
+        "month": 1,
+        "day": 28,
         "cancelled": true
     },
     {
